@@ -1,0 +1,6 @@
+{
+  "type": "read-debtors",
+  "payload": {
+    "limit": 10
+  }
+}

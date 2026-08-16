@@ -1,0 +1,6 @@
+{
+  "type": "get-sales-invoice",
+  "payload": {
+    "docNo": "I-2608-001"
+  }
+}
