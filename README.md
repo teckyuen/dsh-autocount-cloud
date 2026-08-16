@@ -12,7 +12,7 @@ It gives DSH four tools:
 ## Install
 
 ```sh
-dsh plugin --profile web add github:YOUR_GITHUB_OWNER/dsh-autocount-cloud
+dsh plugin --profile web add github:teckyuen/dsh-autocount-cloud
 ```
 
 For local development:
